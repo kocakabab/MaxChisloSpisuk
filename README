@@ -1,0 +1,6 @@
+Programata generira sluchaini chisla, razdelq zadachata a paralelni potoci i pokazva razultata.
+Az razrabotih funkciqta za generirane na sluchaini chisla.Suzdadoh spisuk s proizvolni chisla w opredelen diapason i se pogrijih te da sa razpredeleni ravnomerno,za a moje algoritamut da bde testvam efektivno. Sled tova Martin se zae s 
+paralelnoto tursene na maksimalnoto chislo.Toi izpolzva paralelna obrabotka,za da razdeli spisuka na chasti i da tursi
+nai-golqmoto chislo po-burzo. Nikolai puk obedini vsichki chasti ot proekta i itregrira koda,kato e pogriji za vhodnite i izhodni danni.
+Sled testvaneto programata uspeshno namira maksimalnoto chislo v spisuka chrez paralelna obrabotka. Tova q pravi po-efektivna ot obiknoveniq posledovatelen prohod. Proektut pokazva kak, kogato zadachite sa razpredeleni pravilno,
+e vuzmojno da se postigne uspeshen ekipen rezultat
